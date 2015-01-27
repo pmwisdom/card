@@ -1,6 +1,4 @@
-﻿require 'jquery.payment'
-
-$ = jQuery
+﻿$ = jQuery
 $.card = {}
 $.card.fn = {}
 $.fn.card = (opts) ->
